@@ -1,3 +1,3 @@
-module github.com/equationzhao/strftime
+module github.com/Equationzhao/strftime
 
 go 1.24.0
